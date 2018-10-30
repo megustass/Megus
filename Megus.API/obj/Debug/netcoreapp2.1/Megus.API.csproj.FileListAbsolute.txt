@@ -1,0 +1,13 @@
+D:\MyWorks\Projects\Megustas\Source\Megus.API\bin\Debug\netcoreapp2.1\Megus.API.deps.json
+D:\MyWorks\Projects\Megustas\Source\Megus.API\bin\Debug\netcoreapp2.1\Megus.API.runtimeconfig.json
+D:\MyWorks\Projects\Megustas\Source\Megus.API\bin\Debug\netcoreapp2.1\Megus.API.runtimeconfig.dev.json
+D:\MyWorks\Projects\Megustas\Source\Megus.API\bin\Debug\netcoreapp2.1\Megus.API.dll
+D:\MyWorks\Projects\Megustas\Source\Megus.API\bin\Debug\netcoreapp2.1\Megus.API.pdb
+D:\MyWorks\Projects\Megustas\Source\Megus.API\obj\Debug\netcoreapp2.1\Megus.API.csproj.CoreCompileInputs.cache
+D:\MyWorks\Projects\Megustas\Source\Megus.API\obj\Debug\netcoreapp2.1\Megus.API.RazorAssemblyInfo.cache
+D:\MyWorks\Projects\Megustas\Source\Megus.API\obj\Debug\netcoreapp2.1\Megus.API.RazorAssemblyInfo.cs
+D:\MyWorks\Projects\Megustas\Source\Megus.API\obj\Debug\netcoreapp2.1\Megus.API.AssemblyInfoInputs.cache
+D:\MyWorks\Projects\Megustas\Source\Megus.API\obj\Debug\netcoreapp2.1\Megus.API.AssemblyInfo.cs
+D:\MyWorks\Projects\Megustas\Source\Megus.API\obj\Debug\netcoreapp2.1\Megus.API.RazorTargetAssemblyInfo.cache
+D:\MyWorks\Projects\Megustas\Source\Megus.API\obj\Debug\netcoreapp2.1\Megus.API.dll
+D:\MyWorks\Projects\Megustas\Source\Megus.API\obj\Debug\netcoreapp2.1\Megus.API.pdb
