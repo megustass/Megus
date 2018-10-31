@@ -1,0 +1,15 @@
+/.vs/Megus/v15/*.suo
+/.vs/Megus/v15/Server/sqlite3/*.ide-shm
+/.vs/Megus/v15/Server/sqlite3/*.ide-wal
+/Megus.API/bin/Debug/netcoreapp2.1/*.dll
+/Megus.API/bin/Debug/netcoreapp2.1/*.pdb
+/Megus.API/obj/Debug/netcoreapp2.1/*.cache
+/Megus.API/obj/Debug/netcoreapp2.1/*.dll
+/Megus.API/obj/Debug/netcoreapp2.1/*.pdb
+/Megus.API/obj/*.cache
+/Megus.Client/bin/Debug/netcoreapp2.1/*.dll
+/Megus.Client/bin/Debug/netcoreapp2.1/*.pdb
+/Megus.Client/obj/Debug/netcoreapp2.1/*.cache
+/Megus.Client/obj/Debug/netcoreapp2.1/*.dll
+/Megus.Client/obj/Debug/netcoreapp2.1/*.pdb
+/Megus.Client/obj/*.cache
