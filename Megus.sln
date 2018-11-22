@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Megus.Client", "Megus.Client\Megus.Client.csproj", "{7BB3B1C7-0584-4503-93D5-A2ABD9A19131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Megus.API", "Megus.API\Megus.API.csproj", "{3CB5A6FE-B682-44B5-AC75-C5FE583AC551}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Megus.API", "Megus.API\Megus.API.csproj", "{3CB5A6FE-B682-44B5-AC75-C5FE583AC551}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Megus.Common", "Megus.Common\Megus.Common.csproj", "{646807FF-6E47-4AA1-B75C-4A0D16C65B43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3CB5A6FE-B682-44B5-AC75-C5FE583AC551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CB5A6FE-B682-44B5-AC75-C5FE583AC551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CB5A6FE-B682-44B5-AC75-C5FE583AC551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646807FF-6E47-4AA1-B75C-4A0D16C65B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646807FF-6E47-4AA1-B75C-4A0D16C65B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646807FF-6E47-4AA1-B75C-4A0D16C65B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646807FF-6E47-4AA1-B75C-4A0D16C65B43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
