@@ -7,7 +7,7 @@ namespace Megus.Common.Entities
     /// </summary>
     public class BaseEntities
     {
-        //[Key]
-        public int Id;
+        [Key]
+        public int Id { get; set; }
     }
 }
