@@ -6,6 +6,7 @@ namespace Megus.API.Repositories.Entities
     public class ImageEntity : BaseEntities
     {
         public string Link { get; set; }
+        public string ImageSource { get; set; }
         public int ImageTypeId { get; set; }
         public int ProductId { get; set; }
 
